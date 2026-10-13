@@ -1,0 +1,10 @@
+# Normalize text line endings across operating systems.
+* text=auto eol=lf
+
+# Keep binary assets unchanged if added later.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary

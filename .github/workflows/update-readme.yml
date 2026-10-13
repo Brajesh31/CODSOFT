@@ -2,9 +2,6 @@ name: Update README Automation
 
 on:
   workflow_dispatch:
-  push:
-  schedule:
-    - cron: "*/15 * * * *"
 
 permissions:
   contents: write

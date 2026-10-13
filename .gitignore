@@ -1,0 +1,23 @@
+# Python bytecode and caches.
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local virtual environments and tooling state.
+.venv/
+venv/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Personal contact exports may contain sensitive information.
+*.csv
+
+# Local editor and operating-system state.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
